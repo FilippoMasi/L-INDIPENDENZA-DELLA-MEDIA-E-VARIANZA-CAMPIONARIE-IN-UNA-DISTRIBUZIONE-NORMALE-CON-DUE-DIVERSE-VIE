@@ -1,0 +1,2 @@
+# L-INDIPENDENZA-DELLA-MEDIA-E-VARIANZA-CAMPIONARIE-IN-UNA-DISTRIBUZIONE-NORMALE-CON-DUE-DIVERSE-VIE
+La Relazione mostra  come a partire d a due teoremi fondamentali nel Calcolo della Probabilità (Teorema di Cochran e di Daily) si può dim ostrare un risultato importante per la distribuzione normale: L'indipendenza tra varianza e media campionaria. Nella seconda parte dell'elaborato viene mostrato l'importanza che ha questo risultato e le applicazioni in Probabilità applicata e non solo. 
